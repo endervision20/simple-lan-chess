@@ -1,0 +1,3 @@
+To run, go into the top bar and type cmd. In command prompt, run "npm run dev:lan", and the join options will be offered.
+
+First player to join is white, second to join is black, anyone else is a spectator.
